@@ -1,7 +1,8 @@
-### Hello, World! I'm Monu
-<hr>
-A passionate self taught Web Developer from India. As Coding allows me to bring in use my mathematical skills as well, I'm loving it more ☘️
-<br><br>
+<h1 align="center">Hello World 👋, I'm Monu 👨‍💻 </h1>
+<h4 align="center"> A Passionate Web Developer & Tech Enthusiast from India </h4>
+
+I have a keen interest in **Science**, **Technology** and, **Development** ☘️
+
 <!--
 **monoMonu/monoMonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 About Me -
 
 - 🔭 I’m currently working on some Websites Development.
+   
 - 🌱 I’m currently learning REACT JS.
   
 - 📫 How to reach me: ms88006218@gmail.com
