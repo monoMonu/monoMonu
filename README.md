@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 About Me -
 
-- 🔭 I’m currently working on a project.
+- 🔭 I’m currently working on a package project.
    
 - 🌱 I’m currently learning ReactJS, a JS library.
   
