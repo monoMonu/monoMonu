@@ -18,7 +18,7 @@ About Me -
    
 - 🌱 I’m currently learning ReactJS, a JS library.
   
-- 📫 How to reach me: ms88006218@gmail.com
+- 📫 How to reach me: monusch08@gmail.com
 
 ### Languages & Tools
 
