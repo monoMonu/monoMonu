@@ -27,5 +27,7 @@ About Me -
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JS-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="22"/></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="react" height="22"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="react" height="22"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="tailwind" height="22"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NodeJS-6cc24a?style=for-the-badge&logo=nodejs&logoColor=fff" alt="Node Js" height="22"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-7952B3?style=for-the-badge&logo=canva&logoColor=fff" alt="react" height="22"/></a>
 > *Note: I know Bootstrap although I don't use it* 🤷
