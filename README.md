@@ -16,7 +16,7 @@ About Me -
 
 - 🔭 I’m currently working on a package project.
    
-- 🌱 I’m currently learning ReactJS, a JS library.
+- 🌱 I’m currently exploring Open Source.
   
 - 📫 How to reach me: monusch08@gmail.com
 
