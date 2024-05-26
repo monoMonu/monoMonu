@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently exploring the things.
+- 🔭 I'm currently exploring things.
 
 - 🌱 I’m currently learning Backend.
   
