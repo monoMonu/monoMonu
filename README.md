@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <h3>Languages & Tools : </h3>
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="docker" height="30"/></a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="next.js" height="30"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JS-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" height="30"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="react" height="30"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/REACT_NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="react-native" height="30"/></a>
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
 <h3>My Github Stats :</h3>
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monoMonu&show_icons=true&theme=radical" alt="monoMonu" /></p>        
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monoMonu&theme=radical" alt="monoMonu" /></p>
+<!-- <p align="center"> <img src="https://api.githubtrends.io/user/svg/monoMonu/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Top Languages" width="400"/></p> -->
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=monoMonu&theme=radical" alt="GitHub Streak" width="400"/></p>
 <br>
 <p> <img src="https://komarev.com/ghpvc/?username=monoMonu&label=Profile%20views&color=0e75b6&style=flat" alt="monoMonu" /></p>        
